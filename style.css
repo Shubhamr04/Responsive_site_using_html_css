@@ -32,6 +32,7 @@ footer {
 .tile-image2{
   float:left;
   height: 200px;
+  margin-right:50px;
 }
 
 .left{
